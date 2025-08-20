@@ -1,0 +1,1 @@
+docker-compose -f portainer/docker-compose.yml up -d --build
