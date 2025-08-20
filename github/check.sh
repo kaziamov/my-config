@@ -1,0 +1,1 @@
+sudo ssh -T git@github.com
