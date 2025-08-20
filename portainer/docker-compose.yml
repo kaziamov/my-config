@@ -1,6 +1,6 @@
 services:
   portainer:
-    image: portainer/portainer-ce::2.33.0-alpine
+    image: portainer/portainer-ce:2.33.0-alpine
     restart: always
     ports:
       - "8000:8000"
